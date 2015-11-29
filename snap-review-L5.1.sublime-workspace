@@ -1,0 +1,1972 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bel",
+				"BelongsToMany	(User.php)"
+			],
+			[
+				"belong",
+				"belongsToMany	(User.php)"
+			],
+			[
+				"Belon",
+				"BelongsToMany	(BelongsToMany.php)"
+			],
+			[
+				"Category",
+				"CategorySeeder	(CategorySeeder.php)"
+			],
+			[
+				"time",
+				"timestamps	(2014_10_12_000000_create_users_table.php)"
+			],
+			[
+				"co",
+				"components"
+			],
+			[
+				"comments",
+				"commentsCount"
+			],
+			[
+				"this",
+				"this	codeigniter-this"
+			],
+			[
+				"Sche",
+				"Schema-drop	Schema-drop"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"em",
+				"employee_id	(post.blade.php)"
+			],
+			[
+				"thi",
+				"this	codeigniter-this"
+			],
+			[
+				"parti",
+				"partials	(master.blade.php)"
+			],
+			[
+				"mess",
+				"messages	(routes.php)"
+			],
+			[
+				"requ",
+				"require	(app.js)"
+			],
+			[
+				"Comm",
+				"CommentsController@store	(routes.php)"
+			],
+			[
+				"seconduser",
+				"secondUser"
+			],
+			[
+				"createuser",
+				"createUserAndSignIn"
+			],
+			[
+				"cou",
+				"coupon	(checkout.js)"
+			],
+			[
+				"appl",
+				"applyDiscount"
+			],
+			[
+				"val",
+				"valid"
+			],
+			[
+				"exi",
+				"elixir('js"
+			],
+			[
+				"Rou",
+				"Route::group	Create a Group of Routes"
+			],
+			[
+				"Roug",
+				"Route::group	Create a Group of Routes"
+			],
+			[
+				"firn",
+				"friend"
+			],
+			[
+				"frien",
+				"friend_id"
+			],
+			[
+				"friens",
+				"friendsOfMine"
+			],
+			[
+				"Frie",
+				"FriendsController@decline"
+			],
+			[
+				"or",
+				"overrides"
+			],
+			[
+				"te",
+				"test	(ExampleTest.php)"
+			],
+			[
+				"empl",
+				"employee_id"
+			],
+			[
+				"User",
+				"UserRegistered	(routes.php)"
+			],
+			[
+				"Auth",
+				"Auth-login	Auth-login"
+			],
+			[
+				"emp",
+				"employee_id	(routes.php)"
+			],
+			[
+				"registron",
+				"RegistrationController"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"make",
+				"makeThumbnail"
+			],
+			[
+				"Upload",
+				"UploadedFile	(SettingsController.php)"
+			],
+			[
+				"base",
+				"baseDir"
+			],
+			[
+				"tr",
+				"true	(routes.php)"
+			],
+			[
+				"Setting",
+				"SettingsController@index"
+			],
+			[
+				"passwor",
+				"password_confirmation"
+			],
+			[
+				"passwo",
+				"password_confirmation"
+			],
+			[
+				"textf",
+				"textf	textfield"
+			],
+			[
+				"ttf",
+				"textf	textfield"
+			],
+			[
+				"text",
+				"textf	textfield"
+			],
+			[
+				"txt",
+				"textf	textfield"
+			],
+			[
+				"auth",
+				"authUser"
+			],
+			[
+				"part",
+				"partials"
+			],
+			[
+				"Pagina",
+				"Paginator	(SimplePaginator.php)"
+			],
+			[
+				"deg",
+				"designations"
+			],
+			[
+				"tex",
+				"textf	textarea"
+			],
+			[
+				"tran",
+				"trans	(create.blade.php)"
+			],
+			[
+				"texta",
+				"textarea"
+			],
+			[
+				"sub",
+				"subject_id	(CanBeActivity.php)"
+			],
+			[
+				"hasFrie",
+				"hasFriendRequestPending	(User.php)"
+			],
+			[
+				"frie",
+				"friendsRequests"
+			],
+			[
+				"delete",
+				"deleteFriend	(User.php)"
+			],
+			[
+				"bac",
+				"background	(main.scss)"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"current",
+				"current_branch	(User.php)"
+			],
+			[
+				"fr",
+				"friend_id	(routes.php)"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"Authl",
+				"Auth-login	Auth-login"
+			],
+			[
+				"friendRequest",
+				"friendsRequests"
+			],
+			[
+				"fri",
+				"friendsRequests"
+			],
+			[
+				"sul",
+				"sublime-workspace"
+			],
+			[
+				"Routegr",
+				"Route::group	Create a Group of Routes"
+			],
+			[
+				"Ban",
+				"Banijya\\User	(User.php)"
+			],
+			[
+				"is",
+				"isInActiveCities	(AuthController.php)"
+			],
+			[
+				"param",
+				"paramsObj"
+			],
+			[
+				"DB",
+				"DB-table	DB-table"
+			],
+			[
+				"Rget",
+				"Route-get	Route-get"
+			],
+			[
+				"Request",
+				"Request-ajax	Request-ajax"
+			],
+			[
+				"imageab",
+				"imageable_id	(EventsController.php)"
+			],
+			[
+				"save",
+				"save-changes"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"datetim",
+				"dateTimePicker"
+			],
+			[
+				"datetime",
+				"datetimePicker"
+			],
+			[
+				"Route",
+				"Route-current	Route-current"
+			],
+			[
+				"r",
+				"rules"
+			],
+			[
+				"respon",
+				"respond"
+			],
+			[
+				"admin",
+				"adminCategories"
+			],
+			[
+				"categ",
+				"category_ids"
+			],
+			[
+				"Reque",
+				"Request-header	Request-header"
+			],
+			[
+				"Authat",
+				"Auth-attempt	Auth-attempt"
+			],
+			[
+				"not",
+				"not_found"
+			],
+			[
+				"Events",
+				"EventsController"
+			],
+			[
+				"where",
+				"whereNotNull"
+			],
+			[
+				"Resp",
+				"Response-json	Response-json"
+			],
+			[
+				"cateid",
+				"category_ids"
+			],
+			[
+				"word",
+				"wordpress"
+			],
+			[
+				"arrake",
+				"array_key_exists"
+			],
+			[
+				"Match",
+				"Match"
+			],
+			[
+				"Redis",
+				"Redis-getConnection	Redis-getConnection"
+			],
+			[
+				"Sess",
+				"Session-forget	Session-forget"
+			],
+			[
+				"SEss",
+				"Session-flush	Session-flush"
+			],
+			[
+				"accto",
+				"accessToken"
+			],
+			[
+				"acct",
+				"accessToken"
+			],
+			[
+				"socia",
+				"socialNetwork"
+			],
+			[
+				"match",
+				"match_profile_id"
+			],
+			[
+				"count",
+				"countIndustries"
+			],
+			[
+				"ass",
+				"associateMatch"
+			],
+			[
+				"data",
+				"databaseTableDataDestroyForTesting"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"cur",
+				"current_profile_id"
+			],
+			[
+				"Formo",
+				"Form-open	Form-open"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"Profi",
+				"Profile"
+			],
+			[
+				"curr",
+				"current_profile_type"
+			],
+			[
+				"Routeg",
+				"Route-group	Route-group"
+			],
+			[
+				"per",
+				"perPage"
+			],
+			[
+				"FOrmc",
+				"Form-checkbox	Form-checkbox"
+			],
+			[
+				"FOrmo",
+				"Form-open	Form-open"
+			],
+			[
+				"QUery",
+				"query"
+			],
+			[
+				"App",
+				"App-make	App-make"
+			],
+			[
+				"iterator",
+				"iterator_to_array"
+			],
+			[
+				"array_ke",
+				"array_keys"
+			],
+			[
+				"zipc",
+				"zipcode"
+			],
+			[
+				"getzi",
+				"getZipsInRadius"
+			],
+			[
+				"zipcode",
+				"zipcodes"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"mus",
+				"musicians"
+			],
+			[
+				"arrawa",
+				"array_walk_recursive"
+			],
+			[
+				"Authus",
+				"Auth-loginUsingId	Auth-loginUsingId"
+			],
+			[
+				"zis",
+				"zipsAndDistance"
+			],
+			[
+				"zips",
+				"zipsAndDistance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->\n    <meta name=\"description\" content=\"Snap Review, Review your nearest business and let other know about awesome business around them.\">\n    <link rel=\"icon\" href=\"/favicon.ico\">\n\n    <title>{!! $title or 'Snap Review' !!}</title>\n\n    <!-- Bootstrap core CSS -->\n    <link href=\"/css/app.css\" rel=\"stylesheet\">\n    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\n      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n    @yield('header','')\n  </head>\n  <body>\n    <nav class=\"navbar navbar-inverse\">\n      <div class=\"container\">\n        <div class=\"navbar-header\">\n          <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\">\n            <span class=\"sr-only\">Toggle navigation</span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n          </button>\n          <a class=\"navbar-brand\" href=\"#\">Snap Review</a>\n        </div>\n        <div id=\"navbar\" class=\"navbar-collapse collapse\">\n          <ul class=\"nav navbar-nav navbar-right\">\n            <li><a href=\"#\">Dashboard</a></li>\n            <li><a href=\"#\">Settings</a></li>\n            <li><a href=\"#\">Profile</a></li>\n            <li><a href=\"#\">Help</a></li>\n          </ul>\n          <form class=\"navbar-form navbar-right\">\n            <input type=\"text\" class=\"form-control\"s placeholder=\"Search...\">\n          </form>\n        </div>\n      </div>\n    </nav>\n\n    <!-- Main container -->\n    <div class=\"container main-container\">\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p><p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p><p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p><p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n      <p>\n        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n      </p>\n    </div>\n\n    <!-- Footers -->\n    <div class=\"container footer\">\n        <!-- Footer contains goes here -->\n    </div>\n    <script src=\"/js/app.js\"></script>\n    @yield('footer')\n  </body>\n</html>\n",
+			"file": "resources/views/layouts/master.blade.php",
+			"file_size": 8993,
+			"file_write_time": 130931957707397606,
+			"settings":
+			{
+				"buffer_size": 8834,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Builds/PSR-2.sublime-build",
+	"command_palette":
+	{
+		"height": 372.0,
+		"selected_items":
+		[
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"delete",
+				"ANF: Delete File"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"ANF: Rename File"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"del",
+				"ANF: Delete Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ph",
+				"PHPCompanion:Expand Fully Qualified Class Name"
+			],
+			[
+				"const",
+				"Snippet: function __construct"
+			],
+			[
+				"php",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"de",
+				"ANF: Delete Current File"
+			],
+			[
+				"d",
+				"ANF: Delete Current File"
+			],
+			[
+				"ren",
+				"ANF: Rename File"
+			],
+			[
+				"artimake",
+				"Laravel Artisan: Make: Controller"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"makecont",
+				"Laravel Artisan: Make: Controller"
+			],
+			[
+				"Snippet: ",
+				"Snippet: TIME equivalent to the table"
+			],
+			[
+				"anre",
+				"ANF: Rename File"
+			],
+			[
+				"dece",
+				"ANF: Delete Current File"
+			],
+			[
+				"setrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"packgere",
+				"Package Control: Remove Package"
+			],
+			[
+				"gisst",
+				"Git: Status"
+			],
+			[
+				"sej",
+				"Set Syntax: JSON"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"Package Control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package ",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"setr",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"set",
+				"Set Syntax: Ruby"
+			],
+			[
+				"setph",
+				"Set Syntax: PHP"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setbl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"se",
+				"Set Syntax: Ruby"
+			],
+			[
+				"liste",
+				"Package Control: List Packages"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"setsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"selq",
+				"Set Syntax: SQL"
+			],
+			[
+				"setphp	",
+				"Set Syntax: PHP"
+			],
+			[
+				"laravelfacade: ",
+				"Laravel Facade: DB"
+			],
+			[
+				"setpp",
+				"Set Syntax: PHP"
+			],
+			[
+				"laravel",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"emm",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"tdo",
+				"Tasks: New document"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"reso",
+				"Laravel Generate: Resource"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"gene",
+				"Laravel Generate: Resource"
+			],
+			[
+				"resource",
+				"Laravel Generate: Resource"
+			],
+			[
+				"setsq",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+			"import sublime_plugin, sublime",
+			"dir",
+			"ls",
+			"EOF",
+			"def",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/VM/snap-review",
+		"/E/VM/snap-review/app/Events",
+		"/E/VM/snap-review/app/Providers",
+		"/E/VM/snap-review/resources",
+		"/E/VM/snap-review/resources/views",
+		"/E/VM/snap-review/resources/views/layouts",
+		"/E/VM/snap-review/tests"
+	],
+	"file_history":
+	[
+		"/E/VM/snap-review/node_modules/defs/options.js",
+		"/E/VM/snap-review/node_modules/browser-pack/example/output.js",
+		"/E/VM/snap-review/resources/views/welcome.blade.php",
+		"/E/VM/snap-review/node_modules/caniuse-db/features-json/wbr-element.json",
+		"/E/VM/snap-review/node_modules/acorn/bin/without_eval",
+		"/E/VM/snap-review/node_modules/.bin/watchify",
+		"/E/VM/snap-review/app/Category.php",
+		"/E/VM/snap-review/app/Business.php",
+		"/E/VM/snap-review/tests/ExampleTest.php",
+		"/E/VM/snap-review/database/migrations/2015_11_28_065944_create_images_table.php",
+		"/E/VM/snap-review/database/migrations/2015_11_28_100836_create_tags_table.php",
+		"/E/VM/snap-review/app/Image.php",
+		"/E/VM/snap-review/app/User.php",
+		"/E/VM/snap-review/app/Tag.php",
+		"/E/VM/snap-review/node_modules/.bin/insert-module-globals",
+		"/E/VM/snap-review/node_modules/lodash/internal/createForIn.js",
+		"/E/VM/snap-review/node_modules/lodash/object/create.js",
+		"/E/VM/snap-review/node_modules/caniuse-db/features-json/css-reflections.json",
+		"/E/VM/snap-review/composer.json",
+		"/C/Users/PROBOOK/AppData/Roaming/Sublime Text 3/Packages/User/routes_controller.sublime-snippet",
+		"/C/Users/PROBOOK/AppData/Roaming/Sublime Text 3/Packages/User/Builds/PSR-2.sublime-build",
+		"/E/VM/snap-review/database/migrations/2015_11_16_084503_create_business_table.php",
+		"/E/VM/snap-review/database/migrations/2015_11_25_113023_create_business_user_table.php",
+		"/E/VM/snap-review/node_modules/lodash/internal/createBaseEach.js",
+		"/E/Projects/Faker/src/Faker/Provider/en_NZ/Address.php",
+		"/E/Projects/Faker/src/Faker/Provider/ne_NP/Address.php",
+		"/E/VM/snap-review/database/seeds/DatabaseSeeder.php",
+		"/E/VM/snap-review/database/factories/ModelFactory.php",
+		"/E/VM/snap-review/database/seeds/UserSeeder.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php",
+		"/E/VM/snap-review/node_modules/binary-extensions/binary-extensions.json",
+		"/E/VM/snap-review/storage/database.sqlite",
+		"/E/VM/snap-review/config/database.php",
+		"/E/VM/snap-review/node_modules/graceful-fs/test/max-open.js",
+		"/E/VM/snap-review/config/mail.php",
+		"/E/VM/snap-review/database/seeds/ReviewSeeder.php",
+		"/E/VM/snap-review/app/Review.php",
+		"/E/VM/snap-review/node_modules/lodash/internal/reEscape.js",
+		"/E/VM/snap-review/app/Http/routes.php",
+		"/E/VM/snap-review/database/migrations/2015_11_17_084345_create_reviews_table.php",
+		"/E/VM/snap-review/vendor/fzaninotto/faker/src/Faker/Provider/Address.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/E/VM/snap-review/database/migrations/2015_11_25_112127_create_biz_features_table.php",
+		"/E/VM/snap-review/vendor/symfony/http-kernel/EventListener/AddRequestFormatsListener.php",
+		"/E/VM/snap-review/node_modules/node-gyp/addon.gypi",
+		"/E/VM/snap-review/node_modules/JSONStream/examples/all_docs.js",
+		"/E/VM/snap-review/config/app.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphToMany.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphMany.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasManyThrough.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Support/Manager.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Mail/composer.json",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php",
+		"/E/VM/snap-review/vendor/barryvdh/laravel-debugbar/src/DataCollector/IlluminateRouteCollector.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/E/VM/snap-review/node_modules/lodash/internal/isLaziable.js",
+		"/E/VM/snap-review/config/image.php",
+		"/E/VM/snap-review/node_modules/jstransform/visitors/__tests__/type-object-method-syntax-test.js",
+		"/E/VM/snap-review/node_modules/watchify/node_modules/browserify/test/tr_once/main.js",
+		"/E/VM/snap-review/node_modules/vinyl-sourcemaps-apply/node_modules/source-map/test/source-map/test-binary-search.js",
+		"/E/VM/snap-review/node_modules/vinyl-sourcemaps-apply/node_modules/source-map/test/source-map/test-source-map-consumer.js",
+		"/E/VM/snap-review/node_modules/watchify/test/many.js",
+		"/E/VM/snap-review/node_modules/domutils/lib/manipulation.js",
+		"/E/VM/snap-review/node_modules/caniuse-db/features-json/media-attribute.json",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeQueued.php",
+		"/E/VM/snap-review/node_modules/browserify/test/double_buffer.js",
+		"/E/VM/snap-review/snap-review-L5.1.sublime-project",
+		"/E/VM/snap-review/database/migrations/2015_11_23_155212_create_biz_survey_table.php",
+		"/E/VM/snap-review/database/migrations/2015_11_17_084309_create_categories_table.php",
+		"/E/VM/snap-review/node_modules/js-base64/base64_utf8",
+		"/E/VM/snap-review/vendor/predis/predis/bin/create-command-test",
+		"/E/VM/snap-review/node_modules/lodash/internal/createCtorWrapper.js",
+		"/E/VM/snap-review/node_modules/lodash/internal/createCache.js",
+		"/E/VM/snap-review/node_modules/lodash/internal/createReduce.js",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php",
+		"/E/VM/snap-review/node_modules/lodash/internal/equalObjects.js",
+		"/E/VM/snap-review/vendor/symfony/http-kernel/EventListener/EsiListener.php",
+		"/E/VM/snap-review/node_modules/.bin/envify",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsTo.php",
+		"/E/VM/snap-review/node_modules/lodash/internal/baseLodash.js",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Database/Seeder.php",
+		"/E/VM/snap-review/database/seeds/CitySeeder.php",
+		"/E/VM/snap-review/vendor/fzaninotto/faker/src/Faker/Provider/ne_NP/Address.php",
+		"/E/VM/snap-review/vendor/jakub-onderka/php-console-highlighter/examples/whole_file_line_numbers.php",
+		"/E/VM/snap-review/vendor/fzaninotto/faker/src/Faker/Provider/ne_NP/PhoneNumber.php",
+		"/E/VM/snap-review/vendor/fzaninotto/faker/src/Faker/Provider/ne_NP/Person.php",
+		"/E/VM/snap-review/node_modules/stream-splicer/test/empty_no_data.js",
+		"/E/VM/snap-review/node_modules/browserify/lib/_empty.js",
+		"/E/VM/snap-review/node_modules/promise/lib/node-extensions.js",
+		"/E/VM/snap-review/node_modules/.bin/nopt",
+		"/E/VM/snap-review/server.php",
+		"/E/VM/snap-review/vendor/fzaninotto/faker/src/Faker/Generator.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/psr7/src/MessageTrait.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/psr7/src/Stream.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/src/Client.php",
+		"/E/VM/snap-review/database/seeds/CategorySeeder.php",
+		"/E/VM/snap-review/node_modules/browserify/test/fake.js",
+		"/E/VM/snap-review/node_modules/caniuse-db/features-json/form-attribute.json",
+		"/E/VM/snap-review/config/filesystems.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php",
+		"/E/VM/snap-review/node_modules/core-js/fn/math/acosh.js",
+		"/E/VM/snap-review/vendor/hamcrest/hamcrest-php/generator/FactoryMethod.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php",
+		"/E/VM/snap-review/node_modules/bufferutil/fallback.js",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/psr7/src/Response.php",
+		"/E/VM/snap-review/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php",
+		"/E/VM/snap-review/node_modules/less/test/browser/runner-errors-spec.js",
+		"/E/VM/snap-review/node_modules/browserify/test/stream.js",
+		"/E/VM/snap-review/vendor/guzzlehttp/promises/src/CancellationException.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/promises/tests/RejectionExceptionTest.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/promises/tests/AggregateExceptionTest.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/promises/src/RejectionException.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/promises/src/AggregateException.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/UPGRADING.md",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/README.md",
+		"/E/VM/snap-review/vendor/guzzlehttp/guzzle/LICENSE"
+	],
+	"find":
+	{
+		"height": 86.0
+	},
+	"find_in_files":
+	{
+		"height": 188.0,
+		"where_history":
+		[
+			"E:\\VM\\rbb-social-app",
+			"E:\\VM\\Eventful\\app\\",
+			"E:\\server\\www\\gigmor.com\\",
+			"E:\\server\\www\\gigmor.com\\control",
+			"E:\\server\\www\\gigmor.com",
+			"",
+			"E:\\server\\www\\ibomber_backend\\game\\application",
+			"E:\\server\\www\\ibomber_backend\\game\\application\\models",
+			"",
+			"E:\\server1\\www\\bitbucket\\crm-web\\resources\\plugins",
+			"E:\\server1\\www\\bitbucket\\crm-web\\application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"integer",
+			"increments",
+			"id",
+			"type",
+			"string",
+			"◘string",
+			"path",
+			"thumbnail_path",
+			"reservations",
+			"dinner",
+			"thumbnail",
+			"string",
+			"table",
+			"closed",
+			"table",
+			"belongsToMany",
+			"Role",
+			"City",
+			"city",
+			"categories",
+			"res",
+			"categories001",
+			"transfer",
+			"requestAsync",
+			"fr_FR",
+			"locale",
+			"getFormatter",
+			"Faker",
+			"$faker->addProvider('Faker\\Provider\\ne_NP\\Address');\n    $faker->addProvider('Faker\\Provider\\ne_NP\\Person');\n    $faker->addProvider('Faker\\Provider\\ne_NP\\PhoneNumber');\n    $faker->addProvider('Faker\\Provider\\ne_NP\\Internet');",
+			"PhoneNumber",
+			"phoneNumber",
+			"Person",
+			"domain",
+			"zipcode",
+			"ne_NP",
+			"addre",
+			"closed",
+			"boolean",
+			"table",
+			"User",
+			"unsigned();",
+			"business_id",
+			"review_voites",
+			"sex",
+			"primary_locale",
+			"table",
+			"bigInteger",
+			"status",
+			"event_id",
+			"business",
+			"business_id",
+			"state",
+			"user_id",
+			"business_id",
+			"parking",
+			"pool",
+			"parking",
+			"nickname",
+			"current_crush",
+			"reviews",
+			"not_reviewing",
+			"fullname",
+			"bootstrap",
+			"Image",
+			"xdebug",
+			"zend",
+			"debug",
+			"inline",
+			"commentsCount",
+			"Comments",
+			"div",
+			"images",
+			"likeable",
+			"DELETE",
+			"employee_id",
+			"LARAVEL_ENV",
+			"put your unique phrase here",
+			"password_here",
+			"spark",
+			"$1",
+			"/$1",
+			"block",
+			"ProgramData",
+			"vc",
+			"newMessage",
+			"p",
+			"p ",
+			"user: 'kabir',",
+			"users-available-i",
+			"users-available-i ",
+			"users-all",
+			"users",
+			"Laravel",
+			"Spark",
+			"messages",
+			"guard",
+			"vue",
+			"user",
+			"private",
+			"refreshApplication",
+			"employee_id",
+			"9999",
+			"Guard",
+			"comments",
+			"Auth::user()",
+			"user",
+			"span",
+			"p",
+			"checkout",
+			"HI",
+			"response",
+			"price",
+			"setCoupon",
+			"description",
+			"test",
+			"coupon",
+			"hello",
+			"model",
+			"html",
+			"View All Comments",
+			"CommentsRequest",
+			"send_request",
+			"id",
+			"comment",
+			"Aavatar",
+			"aavatar",
+			"Aavatar",
+			"aavatar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/layouts/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1922,
+								1922
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 793.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 86.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.composer":
+	{
+		"height": 154.0
+	},
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "snap-review-L5.1.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"welcome",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"image",
+				"app\\Image.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"createimages",
+				"database\\migrations\\2015_11_28_065944_create_images_table.php"
+			],
+			[
+				"create_image",
+				"database\\migrations\\2015_11_28_065944_create_images_table.php"
+			],
+			[
+				"createbusi",
+				"database\\migrations\\2015_11_16_084503_create_business_table.php"
+			],
+			[
+				"create_businee",
+				"database\\migrations\\2015_11_16_084503_create_business_table.php"
+			],
+			[
+				"belongsto",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\BelongsToMany.php"
+			],
+			[
+				"busines",
+				"app\\Business.php"
+			],
+			[
+				"databaseeder",
+				"database\\seeds\\DatabaseSeeder.php"
+			],
+			[
+				"model",
+				"database\\factories\\ModelFactory.php"
+			],
+			[
+				"",
+				"database\\seeds\\UserSeeder.php"
+			],
+			[
+				"create_feat",
+				"database\\migrations\\2015_11_25_112127_create_biz_features_table.php"
+			],
+			[
+				"address",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\Address.php"
+			],
+			[
+				"illuminate/many",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\BelongsToMany.php"
+			],
+			[
+				"querydb",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php"
+			],
+			[
+				"illumodel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"review",
+				"app\\Review.php"
+			],
+			[
+				"modefac",
+				"database\\factories\\ModelFactory.php"
+			],
+			[
+				"reviewsee",
+				"database\\seeds\\ReviewSeeder.php"
+			],
+			[
+				"business",
+				"app\\Business.php"
+			],
+			[
+				"createcategories",
+				"database\\migrations\\2015_11_17_084309_create_categories_table.php"
+			],
+			[
+				"createreview",
+				"database\\migrations\\2015_11_17_084345_create_reviews_table.php"
+			],
+			[
+				"eloquentm",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"belongstoma",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\BelongsToMany.php"
+			],
+			[
+				"database/seeder",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Seeder.php"
+			],
+			[
+				"ne_np",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\ne_NP\\Address.php"
+			],
+			[
+				"databaessee",
+				"database\\seeds\\DatabaseSeeder.php"
+			],
+			[
+				"faker",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Generator.php"
+			],
+			[
+				"illu/hel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php"
+			],
+			[
+				"messagetrait",
+				"vendor\\guzzlehttp\\psr7\\src\\MessageTrait.php"
+			],
+			[
+				"gulp/response",
+				"vendor\\guzzlehttp\\psr7\\src\\Response.php"
+			],
+			[
+				"stream.pp",
+				"vendor\\guzzlehttp\\psr7\\src\\Stream.php"
+			],
+			[
+				"guzzlehttp/client",
+				"vendor\\guzzlehttp\\guzzle\\src\\Client.php"
+			],
+			[
+				"guzzlehttp/psr7/response",
+				"vendor\\guzzlehttp\\psr7\\src\\Response.php"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"create_cites",
+				"database\\migrations\\2015_11_17_084402_create_cities_table.php"
+			],
+			[
+				"np_address",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\ne_NP\\Address.php"
+			],
+			[
+				"modelfa",
+				"database\\factories\\ModelFactory.php"
+			],
+			[
+				"factorymod",
+				"vendor\\hamcrest\\hamcrest-php\\generator\\FactoryMethod.php"
+			],
+			[
+				"fakerfactory",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Factory.php"
+			],
+			[
+				"/provider/person",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\Person.php"
+			],
+			[
+				"r/ne_np/person",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\ne_NP\\Person.php"
+			],
+			[
+				"app.",
+				"config\\app.php"
+			],
+			[
+				"fakergene",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Generator.php"
+			],
+			[
+				"create_bu",
+				"database\\migrations\\2015_11_16_084503_create_business_table.php"
+			],
+			[
+				"nzaddress",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\en_NZ\\Address.php"
+			],
+			[
+				"enaddress",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\en_NZ\\Address.php"
+			],
+			[
+				"faker/generator",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Generator.php"
+			],
+			[
+				"neaddress",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Provider\\ne_NP\\Address.php"
+			],
+			[
+				"facker/gen",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Generator.php"
+			],
+			[
+				"fakerfacto",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Factory.php"
+			],
+			[
+				"aker/generator",
+				"vendor\\fzaninotto\\faker\\src\\Faker\\Generator.php"
+			],
+			[
+				"create_bsuser",
+				"database\\migrations\\2015_11_25_113023_create_business_user_table.php"
+			],
+			[
+				"cont",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"testcase",
+				"tests\\TestCase.php"
+			],
+			[
+				"exampletest",
+				"tests\\ExampleTest.php"
+			],
+			[
+				"databa",
+				"config\\database.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"config/app",
+				"config\\app.php"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"post.ph",
+				"app\\Post.php"
+			],
+			[
+				"illustr",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Str.php"
+			],
+			[
+				"helpers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php"
+			],
+			[
+				"single",
+				"resources\\views\\posts\\single.blade.php"
+			],
+			[
+				"create_likeab",
+				"database\\migrations\\2015_11_14_071704_create_likeable_table.php"
+			],
+			[
+				"like",
+				"app\\Like.php"
+			],
+			[
+				"create_like",
+				"database\\migrations\\2015_11_14_071704_create_likeable_table.php"
+			],
+			[
+				"crawler",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\CrawlerTrait.php"
+			],
+			[
+				"master",
+				"resources\\views\\layouts\\master.blade.php"
+			],
+			[
+				"post.scs",
+				"resources\\assets\\sass\\partials\\_post.scss"
+			],
+			[
+				"applicationtrait",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\ApplicationTrait.php"
+			],
+			[
+				"assertionstrait",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\AssertionsTrait.php"
+			],
+			[
+				"testing/testcase",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\TestCase.php"
+			],
+			[
+				"illuminate/foundation/testing/testcase",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\TestCase.php"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				".",
+				".env"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"userreq",
+				"app\\Http\\Requests\\RegisterRequest.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"app.js",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"checkout",
+				"resources\\views\\checkout.blade.php"
+			],
+			[
+				"soc",
+				"socket.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"translator",
+				"vendor\\symfony\\translation\\Translator.php"
+			],
+			[
+				"jedate",
+				"vendor\\jenssegers\\date\\src\\Date.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"js/app",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"user-messages",
+				"resources\\views\\messages\\partials\\user-messages.blade.php"
+			],
+			[
+				"messages/in",
+				"resources\\views\\messages\\index.blade.php"
+			],
+			[
+				"messagescontroller",
+				"app\\Http\\Controllers\\MessagesController.php"
+			],
+			[
+				"_ch",
+				"resources\\assets\\sass\\partials\\_chat.scss"
+			],
+			[
+				"_chat",
+				"resources\\assets\\sass\\partials\\_chat.scss"
+			],
+			[
+				"banijya",
+				"resources\\assets\\js\\banijya.js"
+			],
+			[
+				"test",
+				"resources\\views\\test.blade.php"
+			],
+			[
+				"friendship-status",
+				"resources\\views\\friends\\partials\\friendship-status.blade.php"
+			],
+			[
+				"saerch/in",
+				"resources\\views\\search\\index.blade.php"
+			],
+			[
+				"search/ind",
+				"resources\\views\\search\\index.blade.php"
+			],
+			[
+				"searccont",
+				"app\\Http\\Controllers\\SearchController.php"
+			],
+			[
+				"friendscont",
+				"app\\Http\\Controllers\\FriendsController.php"
+			],
+			[
+				"applicationtrai",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\ApplicationTrait.php"
+			],
+			[
+				"applicationtra",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\ApplicationTrait.php"
+			],
+			[
+				"craw",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\CrawlerTrait.php"
+			],
+			[
+				"modelfac",
+				"database\\factories\\ModelFactory.php"
+			],
+			[
+				"applicattra",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\ApplicationTrait.php"
+			],
+			[
+				"illutestcase",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\TestCase.php"
+			],
+			[
+				"control",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"crawle",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\CrawlerTrait.php"
+			],
+			[
+				"tescase",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\TestCase.php"
+			],
+			[
+				"querybu",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php"
+			],
+			[
+				"homecontroller",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"controller",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"home/index",
+				"resources\\views\\home\\index.blade.php"
+			],
+			[
+				"carbon",
+				"vendor\\nesbot\\carbon\\src\\Carbon\\Carbon.php"
+			],
+			[
+				"_nav",
+				"resources\\assets\\sass\\partials\\_nav.scss"
+			],
+			[
+				"partials/comm",
+				"resources\\views\\posts\\partials\\comment.blade.php"
+			],
+			[
+				"osts/single",
+				"resources\\views\\posts\\single.blade.php"
+			],
+			[
+				"partials/post",
+				"resources\\views\\posts\\partials\\post.blade.php"
+			],
+			[
+				"partials/posts",
+				"resources\\views\\posts\\partials\\posts.blade.php"
+			],
+			[
+				"postscontroller",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"check",
+				"resources\\views\\checkout.blade.php"
+			],
+			[
+				"responsefactory",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ResponseFactory.php"
+			],
+			[
+				"views/coup",
+				"resources\\views\\checkout.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\VM\\Eventful\\eventful.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

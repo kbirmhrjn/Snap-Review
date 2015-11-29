@@ -1,0 +1,8 @@
+"phpcompanion": {
+    "namespace_prefix": "",
+    "exclude_dir": [
+            "node_modules",
+            "tests",
+            "public"
+    ]
+}
